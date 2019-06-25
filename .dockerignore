@@ -1,2 +1,4 @@
-app/.git
-app/.gitigore
+data/htdocs/.git
+data/htdocs/.gitigore
+data/htdocs/.DS_Store
+data/.DS_Store

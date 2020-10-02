@@ -5,7 +5,7 @@ SSDB PhpSSDBAdmin Dockerfile
 ## Usage:
 
 ```
-$ docker run --name phpssdbadmin -d -p 80:80 jpnkls/psa
+$ docker run --name phpssdbadmin -d -p 80:80 jordymoos/phpssdbadmin
 ```
 
 
@@ -19,3 +19,7 @@ $ docker run \
   -v /path/to/phpssdbadmin/config.php:/var/www/html/app/config/config.php \
   jpnkls/psa
 ```
+
+## License addition:
+This repo is cloned from:
+https://github.com/janpiter/phpssdbadmin-docker
